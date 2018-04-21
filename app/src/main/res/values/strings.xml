@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Life Counter</string>
+    <string name="plus">+</string>
+    <string name="plus_five">+ 5</string>
+    <string name="subtract">-</string>
+    <string name="subtract_Five">- 5</string>
 </resources>
